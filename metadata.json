@@ -1,0 +1,6 @@
+{
+  "name": "אפליקציית ZUZU",
+  "description": "אפליקציית כרטיסיות מרהיבה ומעוצבת למעקב וניהול פיננסי, תכנון חסכונות, סימולציות השקעה וניהול תיקי נכסים",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
