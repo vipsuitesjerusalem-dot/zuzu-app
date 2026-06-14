@@ -411,7 +411,7 @@ export function OverviewTab({ sheets, welcomeQuote, onTabChange, onEditRow }: Ov
         {/* Allocation chart card */}
         <div className="w-full bg-white rounded-3xl border border-slate-200/85 p-6 flex flex-col justify-between" id="allocation-card-box">
           <div className="mb-6">
-            <h4 className="text-base font-black text-slate-800">פילוח עתיק לפי אחוזים</h4>
+            <h4 className="text-base font-black text-slate-800">פילוח התיק לפי אחוזים</h4>
             <p className="text-xs text-slate-400">תמונת מצב של פיזור הנכסים לפי אחוזים</p>
           </div>
 
